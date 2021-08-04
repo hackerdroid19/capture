@@ -78,8 +78,6 @@ python-rex==0.4
 python-telegram-bot==13.6
 PyTweening==1.0.3
 pytz==2021.1
-pywin32==301
-pywin32-ctypes==0.2.0
 PyYAML==5.3.1
 qrcode==6.1
 queuelib==1.6.1
